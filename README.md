@@ -5,4 +5,4 @@ ddpm.ipynb contains the implementation of unconditional DDPM and the 2 U-Net mod
 
 cfg_ddpm.ipynb contains the implementation of conditional DDPM (classifier-free guidance) and the 2 U-Net model architectures, adjusted to incorporate image context
 
-More details on the used data set, modeling and results can be found in the report ´´DDPM_oxford_flowers_report.pdf´´
+More details on the used data set, modeling and results can be found in the report `DDPM_oxford_flowers_report.pdf`.
